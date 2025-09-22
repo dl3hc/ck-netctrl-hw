@@ -1,6 +1,7 @@
 # ck-netctrl-hw
 
-Open-hardware daughterboard for the **SBC65EC**, usable together with [**ck-netctrl**](https://github.com/dl3hc/ck-netctrl).  
+Open-hardware daughterboard for the **SBC65EC**, usable with [**ck-netctrl**](https://github.com/dl3hc/ck-netctrl).  
+Provides the hardware for controlling the automatic antenna tuner "Christian-Koppler".  
 Includes the schematic and PCB, designed with [KiCad](https://www.kicad.org/).
 
 ## Contents

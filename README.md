@@ -8,8 +8,6 @@ Includes the schematic and PCB, designed with [KiCad](https://www.kicad.org/).
 
 - Schematic files (`*.sch`)
 - PCB layout (`*.kicad_pcb`)
-- Bill of Materials (BOM)
-- Manufacturing data (Gerber files, drill data)
 
 ## Requirements
 

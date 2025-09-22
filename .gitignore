@@ -1,0 +1,19 @@
+# KiCad project files to ignore
+
+# Backup folder
+ck-netctrl-hw-backups/
+
+# KiCad cache file
+fp-info-cache
+
+# KiCad temporary files
+*.bak
+*.tmp
+*.log
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_wks-bak
+
+# OS-generated files
+.DS_Store
+Thumbs.db

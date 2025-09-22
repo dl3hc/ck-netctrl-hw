@@ -1,7 +1,6 @@
 # ck-netctrl-hw
 
-Open-hardware daughterboard for the **SBC65EC**,  
-usable together with [**ck-netctrl**](https://github.com/dl3hc/ck-netctrl).  
+Open-hardware daughterboard for the **SBC65EC**, usable together with [**ck-netctrl**](https://github.com/dl3hc/ck-netctrl).  
 Includes the schematic and PCB, designed with [KiCad](https://www.kicad.org/).
 
 ## Contents
